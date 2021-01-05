@@ -16,7 +16,7 @@
   "dependencies": {
     "@xunlei/vuex-connector": "^0.3.2",
     "animate.css": "^3.6.1",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "axios-rest": "^0.1.4",
     "element-ui": "^2.4.4",
     "expr-eval": "^1.2.3",
